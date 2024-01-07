@@ -1,4 +1,4 @@
-Welcome to QuantumSimLite apllication made by Maxime Vinteler (@maximev1314 on Twitter) ! This document provides essential information to help you navigate and make the most of the functionalities offered by our software.
+Welcome to QuantumSimLite aplication made by Maxime Vinteler (@maximev1314 on Twitter) ! This document provides essential information to help you navigate and make the most of the functionalities offered by our software.
 
 ## Key Features:
 
@@ -19,7 +19,7 @@ Welcome to QuantumSimLite apllication made by Maxime Vinteler (@maximev1314 on T
 
 - **Compatibility:**
    - This version of the application is designed for Windows operating systems.
-   - For users on other systems, an alternative version compatible with all systems is available at
+   - For users on other systems, an alternative version compatible with all systems is available at https://github.com/MaximeV1314/QuantumSimLite-Win-MacOS-Linux
 
 - **Information Tools:**
    - Access crucial details by hovering over the "blue information icons" in the application.
@@ -37,7 +37,7 @@ Ensure your system meets the following requirements for optimal performance:
 
 ## Installation:
 
-1. Download the repository (Code --> Download as a .zip).
+1. Download the repository (Code --> Download ZIP) at https://github.com/MaximeV1314/QuantumSimLite-Windows
 2. Unzip the file in your directory.
 3. Enjoy.
 
