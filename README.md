@@ -1,4 +1,4 @@
-Welcome to QuantumSimLite aplication made by Maxime Vinteler (@maximev1314 on Twitter) ! This document provides essential information to help you navigate and make the most of the functionalities offered by our software.
+Welcome to QuantumSimLite aplication made by Maxime Vinteler (@maximev1314 on Twitter) ! This document provides essential information to help you navigate and make the most of the functionalities offered by my software.
 
 ## Key Features:
 
@@ -48,5 +48,7 @@ Ensure your system meets the following requirements for optimal performance:
 3. Take advantage of the media folder to access additional resources.
 
 If you encounter any issues or have questions, feel free to reach out at maxime.vinteler@yahoo.fr or @maximev1314 on Twitter.
+
+Special thanks to Paul Rieunier (@LaMatriceCarree and @rotor_mr on Twitter) for creating the application's logo.
 
 Happy Quantum Simulating!
