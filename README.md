@@ -11,8 +11,7 @@ Welcome to QuantumSimLite aplication made by Maxime Vinteler (@maximev1314 on Tw
    - Experience real-time changes in the system.
 
 3. **Downloadable Resources:**
-   - Download eigenstates and dynamic simulations for further analysis.
-   - Access downloadable files, including videos and images, in the designated media folder.
+   - Download eigenstates and dynamic simulations (FFMPEG require for video).
    - Note: Saving images or videos may cause a temporary freeze in the application.
 
 ## Important Information:
@@ -31,7 +30,7 @@ Welcome to QuantumSimLite aplication made by Maxime Vinteler (@maximev1314 on Tw
 
  ## System Requirements:
 
-Ensure your system meets the following requirements for optimal performance:
+Ensure your system meets the following requirements :
 - Operating System: Windows
 - Disk Space: 380 MB of available space
 
@@ -39,7 +38,8 @@ Ensure your system meets the following requirements for optimal performance:
 
 1. Download the repository (Code --> Download ZIP) at https://github.com/MaximeV1314/QuantumSimLite-Windows
 2. Unzip the file in your directory.
-3. Enjoy.
+3. (Optionnal) FFMPEG is require to download dynamic videos. I recommend following this straightforward tutorial to install it : https://phoenixnap.com/kb/ffmpeg-windows
+4. Enjoy. (Note that the first time you open the application may take some time)
 
 ## Usage Guidelines:
 
