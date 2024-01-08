@@ -1,4 +1,4 @@
-Welcome to QuantumSimLite aplication made by Maxime Vinteler (@maximev1314 on Twitter) ! This document provides essential information to help you navigate and make the most of the functionalities offered by my software.
+Welcome to QuantumSimLite application made by Maxime Vinteler (@maximev1314 on Twitter) ! This document provides essential information to help you navigate and make the most of the functionalities offered by my software.
 
 ## Key Features:
 
@@ -39,7 +39,7 @@ Ensure your system meets the following requirements :
 1. Download the repository (Code --> Download ZIP) at https://github.com/MaximeV1314/QuantumSimLite-Windows
 2. Unzip the file in your directory.
 3. (Optionnal) FFMPEG is require to download dynamic videos. I recommend following this straightforward tutorial to install it : https://phoenixnap.com/kb/ffmpeg-windows
-4. Enjoy. (Note that the first time you open the application may take some time)
+4. Execute QuantumSimLite.exe (note that the first time you open it, the application may take some time).
 
 ## Usage Guidelines:
 
