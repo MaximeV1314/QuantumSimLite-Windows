@@ -3,12 +3,14 @@ Welcome to QuantumSimLite application made by Maxime Vinteler (@maximev1314 on T
 ## Key Features:
 
 1. **Eigenstates Visualization:**
-   - Explore eigenstates for any potential in 1D for a single particle.
+   - Explore eigenstates for any potential in 1D and 2D for a single particle.
    - View detailed visualizations in the application.
+   - The data is saved and can be easily used for your own work.
 
 2. **Quantum Dynamics:**
    - Conduct quantum dynamics simulations within the application.
    - Experience real-time changes in the system.
+   - The data is also saved and can be easily used for your own work.
 
 3. **Downloadable Resources:**
    - Download eigenstates and dynamic simulations (FFMPEG require for video).
@@ -23,6 +25,8 @@ Welcome to QuantumSimLite application made by Maxime Vinteler (@maximev1314 on T
 - **Information Tools:**
    - Access crucial details by hovering over the "blue information icons" in the application.
    - Read and follow the provided information for correct usage of the software.
+   - Access to the eigenstates and eigenenergies data in VP folder, .bz2 (eigenstates) and .csv (eigenenergies) files. Note that for 2D, you need to reshape 1D arrays of shape N^2 into an array of 2D shape (NxN).
+   - Access to the dynamics data in VP folder --> dynamic folder. Files with "info" as a prefix contain mean value and standard deviation data for position and momentum representations. Note that for 2D, you need to reshape 1D arrays of shape N^2 into an array of 2D shape (NxN).
 
 - **Media Folder:**
    - Locate additional resources, including videos and images, in the 'media' folder.
