@@ -58,5 +58,6 @@ Special thanks to Paul Rieunier (@LaMatriceCarree and @rotor_mr on Twitter) for 
 Happy Quantum Simulating!
 
 ## Version
-- 1.1 Can now put the app in full screen (Current)
+- 2.0 Add 2D simulatons
+- 1.1 Can now put the app in full screen
 - 1.0 Release of the application
